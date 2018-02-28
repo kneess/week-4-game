@@ -1,0 +1,46 @@
+#randomNumber {
+	background-color: red;
+	height: 170px;
+	margin-left: 13px;
+}
+
+h1 {
+	color: white;
+}
+
+#random {
+	background-color: blue;
+}
+#score {
+	background-color: orange;
+	height: 70px;
+}
+
+#rules {
+	background-color: pink;
+}
+
+#totalScore {
+	background-color: blue;
+	text-decoration: bold;
+	height: 130px;
+	position: absolute;
+	float: left;
+}
+
+#currentScore {
+	background-color: red;
+	margin-left: 13px;
+	position: relative;
+}
+
+.btn {
+	float: left;
+      width: 80px;
+      height: 80px;
+    }
+
+body {
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQgNrRkuTBBuv9AGN1iHes1FobwL7Jx84v4eT1kCyGLklbjhZXQ");
+}    
+    
