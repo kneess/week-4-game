@@ -43,4 +43,7 @@ h1 {
 body {
 	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWQgNrRkuTBBuv9AGN1iHes1FobwL7Jx84v4eT1kCyGLklbjhZXQ");
 }    
-    
+
+.col {
+	text-align: center;
+}
