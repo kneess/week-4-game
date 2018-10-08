@@ -17,3 +17,7 @@ Match the random number generated at the beginning of the game by clicking on th
 
 ## Game Link
 [Game](https://kneess.github.io/week-4-game/)
+
+------------------
+
+![Crystal](assets/images/crystal.png)
